@@ -1,8 +1,8 @@
-import puzzle_pieces_v016.leo;
+import the_puzzle_game.leo;
 import multiparty_pvp_utils_v015.leo;
 
 // The 'coinflip' program.
-program wheres_alex_v019.aleo {
+program the_puzzle_game.aleo {
 
     // ix: 1
     record Game {
