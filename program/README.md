@@ -1,4 +1,4 @@
-# wheres_alex_v011.aleo
+# the_puzzle_game.aleo
 
 ## High level overview of Where's Alex with the Puzzle Wallet and Puzzle SDK
 
