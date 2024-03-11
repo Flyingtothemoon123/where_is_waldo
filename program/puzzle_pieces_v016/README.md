@@ -1,4 +1,4 @@
-# puzzle_pieces_v016.aleo
+# the_puzzle_game.aleo
 
 ## Build Guide
 
